@@ -33,7 +33,6 @@ TFT-in-Energy-Forecasting/
 │ └── processed/ # Cleaned and pre-processed data
 │
 ├── src/
-│ ├── models/ # Custom-built models or scripts to load pre-trained models
 │ └── visualization/ # Visualization scripts
 │
 ├── results/
